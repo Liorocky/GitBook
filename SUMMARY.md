@@ -8,7 +8,7 @@
 
 ## Server
 
-* [CentOS7 安装JDK、Tomcat、MySQL](server/untitled-1.md)
+* [CentOS 7 安装 JDK、Tomcat、MySQL](server/centos7-an-zhuang-jdktomcatmysql.md)
 
 ## JAVA
 

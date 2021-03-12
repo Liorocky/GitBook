@@ -1,4 +1,4 @@
-# CentOS7 安装JDK、Tomcat、MySQL
+# CentOS 7 安装 JDK、Tomcat、MySQL
 
 ## CentOS7 安装JDK、Tomcat、MySQL
 
