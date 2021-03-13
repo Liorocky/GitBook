@@ -2,14 +2,6 @@
 
 * [Lior 的博客](README.md)
 
-## Database
-
-* [MySql日期函数的描述和应用](database/mysql-ri-qi-han-shu-de-miao-shu-he-ying-yong.md)
-
-## Server
-
-* [CentOS 7 安装 JDK、Tomcat、MySQL](server/centos7-an-zhuang-jdktomcatmysql.md)
-
 ## JAVA
 
 * [Java 虚拟机](java/untitled.md)
@@ -20,4 +12,12 @@
   * [Form表单](front-end/element-ui/form-biao-dan.md)
 * [Vue](front-end/vue/README.md)
   * [Vue中](front-end/vue/vue-zhong.md)
+
+## Database
+
+* [MySql日期函数的描述和应用](database/mysql-ri-qi-han-shu-de-miao-shu-he-ying-yong.md)
+
+## Server
+
+* [CentOS 7 安装 JDK、Tomcat、MySQL](server/centos7-an-zhuang-jdktomcatmysql.md)
 
