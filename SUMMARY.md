@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Lior 的博客](README.md)
 
 ## Database
 
