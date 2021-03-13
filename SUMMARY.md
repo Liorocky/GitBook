@@ -29,3 +29,8 @@
 
 * [CentOS 7 安装 JDK、Tomcat、MySQL](server/centos7-an-zhuang-jdktomcatmysql.md)
 
+## Kanban
+
+* [学习计划](kanban/xue-xi-ji-hua.md)
+* [学习笔记](kanban/xue-xi-bi-ji.md)
+
