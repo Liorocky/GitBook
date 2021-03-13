@@ -11,7 +11,6 @@ DATE_ADD( LAST_DAY( now( ) - INTERVAL ? MONTH ), INTERVAL 1 DAY )
 > 返回【?】个月前的那一天
 
 ```text
-
 DATE_SUB( CURDATE( ), INTERVAL ? MONTH )
 ```
 
