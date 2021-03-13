@@ -12,7 +12,6 @@
   * [Form表单](front-end/element-ui/form-biao-dan.md)
 * [Vue](front-end/vue/README.md)
   * [Vue中](front-end/vue/vue-zhong.md)
-* [AJAX技术对RESTful的前端实现](front-end/ajax-ji-shu-dui-restful-de-qian-duan-shi-xian.md)
 
 ## Database
 
