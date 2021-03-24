@@ -20,6 +20,7 @@
 * [AJAX技术对RESTful的前端实现](front-end/ajax-ji-shu-dui-restful-de-qian-duan-shi-xian.md)
 * [ECharts3 没有数据时显示暂无数据的解决方案](front-end/echarts3-mei-you-shu-ju-shi-xian-shi-zan-wu-shu-ju-de-jie-jue-fang-an.md)
 * [JavaScript中this与箭头函数](front-end/javascript-zhong-this-yu-jian-tou-han-shu.md)
+* [改变对象的key](front-end/gai-bian-dui-xiang-de-key.md)
 
 ## Database
 
