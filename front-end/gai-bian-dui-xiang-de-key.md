@@ -2,7 +2,7 @@
 
 
 
-```text
+```javascript
 // 改变对象的key
 reduceKeys(source, keyMap) {
   let result = Object.keys(source).reduce((newData, key) => {
@@ -13,4 +13,6 @@ reduceKeys(source, keyMap) {
   return result
 }
 ```
+
+
 
