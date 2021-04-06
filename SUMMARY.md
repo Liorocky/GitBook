@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Lior 的博客](README.md)
+* [文档检索系统](README.md)
 
 ## JAVA
 
