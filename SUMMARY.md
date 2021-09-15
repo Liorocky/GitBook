@@ -30,3 +30,25 @@
 
 * [CentOS 7 安装 JDK、Tomcat、MySQL](server/centos7-an-zhuang-jdktomcatmysql.md)
 
+## 待处理
+
+* [Untitled](dai-chu-li/untitled.md)
+
+## 工作
+
+* [秋招笔试题](gong-zuo/qiu-zhao-bi-shi-ti/README.md)
+  * [快牛智能](gong-zuo/qiu-zhao-bi-shi-ti/kuai-niu-zhi-neng.md)
+* [面经](gong-zuo/mian-jing/README.md)
+  * [Java 校招面经120道](gong-zuo/mian-jing/untitled-1.md)
+  * [Java 校招超全面试](gong-zuo/mian-jing/untitled.md)
+
+## 生活
+
+* [随笔](sheng-huo/sui-bi/README.md)
+  * [猪猪，我想你了](sheng-huo/sui-bi/untitled.md)
+
+## 学习
+
+* [算法](xue-xi/suan-fa/README.md)
+  * [快速排序](xue-xi/suan-fa/mianshi.md)
+
