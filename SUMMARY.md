@@ -4,6 +4,10 @@
 
 ## study
 
+* [JAVA](study/java/README.md)
+  * [SpringBoot异常](study/java/untitled-1-1.md)
+  * [RestTemplate](study/java/untitled-1.md)
+  * [Java 虚拟机](study/java/untitled.md)
 * [前端](study/qian-duan/README.md)
   * [JavaScript 判空封装方法](study/qian-duan/untitled.md)
   * [改变对象的key](study/qian-duan/gai-bian-dui-xiang-de-key.md)
@@ -32,10 +36,6 @@
   * [MySQL中explain用法](study/database/mysql-zhong-explain-yong-fa.md)
   * [索引添加规则](study/database/suo-yin-tian-jia-gui-ze.md)
   * [MySql日期函数的描述和应用](study/database/mysql-ri-qi-han-shu-de-miao-shu-he-ying-yong.md)
-* [JAVA](study/java/README.md)
-  * [SpringBoot异常](study/java/untitled-1-1.md)
-  * [RestTemplate](study/java/untitled-1.md)
-  * [Java 虚拟机](study/java/untitled.md)
 * [Android](study/android/README.md)
   * [install](study/android/untitled.md)
 * [算法](study/suan-fa/README.md)
