@@ -30,25 +30,25 @@
 
 * [CentOS 7 安装 JDK、Tomcat、MySQL](server/centos7-an-zhuang-jdktomcatmysql.md)
 
-## 待处理
+## todo
 
-* [Untitled](dai-chu-li/untitled.md)
+* [Untitled](todo/untitled.md)
 
-## 工作
+## work
 
-* [秋招笔试题](gong-zuo/qiu-zhao-bi-shi-ti/README.md)
-  * [快牛智能](gong-zuo/qiu-zhao-bi-shi-ti/kuai-niu-zhi-neng.md)
-* [面经](gong-zuo/mian-jing/README.md)
-  * [Java 校招面经120道](gong-zuo/mian-jing/untitled-1.md)
-  * [Java 校招超全面试](gong-zuo/mian-jing/untitled.md)
+* [秋招笔试题](work/qiu-zhao-bi-shi-ti/README.md)
+  * [快牛智能](work/qiu-zhao-bi-shi-ti/kuai-niu-zhi-neng.md)
+* [面经](work/mian-jing/README.md)
+  * [Java 校招面经120道](work/mian-jing/untitled-1.md)
+  * [Java 校招超全面试](work/mian-jing/untitled.md)
 
-## 生活
+## Life
 
-* [随笔](sheng-huo/sui-bi/README.md)
-  * [猪猪，我想你了](sheng-huo/sui-bi/untitled.md)
+* [随笔](life/sui-bi/README.md)
+  * [猪猪，我想你了](life/sui-bi/untitled.md)
 
-## 学习
+## study
 
-* [算法](xue-xi/suan-fa/README.md)
-  * [快速排序](xue-xi/suan-fa/mianshi.md)
+* [算法](study/suan-fa/README.md)
+  * [快速排序](study/suan-fa/mianshi.md)
 
