@@ -55,8 +55,7 @@
 
 ## Life
 
-* [随笔](life/sui-bi/README.md)
-  * [猪猪，我想你了](life/sui-bi/untitled.md)
+* [随笔](life/sui-bi.md)
 
 ## todo
 
