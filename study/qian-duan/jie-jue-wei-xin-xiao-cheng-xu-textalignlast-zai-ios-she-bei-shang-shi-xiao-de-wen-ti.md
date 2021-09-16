@@ -2,7 +2,7 @@
 
 ## 解决微信小程序text-align-last在ios设备上失效的问题
 
-[https://www.csdn.net/tags/MtTaEg0sMzgzMjItYmxvZwO0O0OO0O0O.html](https://www.csdn.net/tags/MtTaEg0sMzgzMjItYmxvZwO0O0OO0O0O.html)\)
+[https://www.csdn.net/tags/MtTaEg0sMzgzMjItYmxvZwO0O0OO0O0O.html](https://www.csdn.net/tags/MtTaEg0sMzgzMjItYmxvZwO0O0OO0O0O.html)
 
 问题描述：我的样式需要实现文字固定宽度的两端对齐，当我跑在模拟器和安卓设备的时候一切正常，但是跑在苹果设备上就会失效。
 
