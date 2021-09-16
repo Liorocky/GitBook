@@ -9,6 +9,7 @@
   * [RestTemplate](study/java/untitled-1.md)
   * [Java 虚拟机](study/java/untitled.md)
 * [前端](study/qian-duan/README.md)
+  * [解决微信小程序text-align-last在ios设备上失效的问题](study/qian-duan/jie-jue-wei-xin-xiao-cheng-xu-textalignlast-zai-ios-she-bei-shang-shi-xiao-de-wen-ti.md)
   * [JavaScript 判空封装方法](study/qian-duan/untitled.md)
   * [改变对象的key](study/qian-duan/gai-bian-dui-xiang-de-key.md)
   * [JavaScript中this与箭头函数](study/qian-duan/javascript-zhong-this-yu-jian-tou-han-shu.md)
